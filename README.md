@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Management System.
 
 A web-based Hospital Management System (HMS) designed to streamline and automate the day-to-day operations of hospitals, clinics, and other healthcare institutions. This system enables efficient management of patient data, appointments, doctor records, billing, and more.
 
