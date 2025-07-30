@@ -12,7 +12,7 @@ The **Hospital Management System (HMS)** is a centralized platform that simplifi
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots.
 
 ### 🔹 Sliding Banner – 1
 ![Slide 1](https://github.com/pappukumar35/Hospital-Management-System/blob/af57ca17a4447fb4a9c867a9fe08f6933b1dc953/slide%201.png?raw=true)
