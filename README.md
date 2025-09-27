@@ -32,7 +32,7 @@
 8. [Author](#-author)
 9. [Social Links](#-social-links)
 
----
+-------
 
 ## 💡 Features
 
