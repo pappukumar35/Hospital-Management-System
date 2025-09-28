@@ -12,7 +12,7 @@
 
 > **Hospital Management System (HMS)** — a web-based app to manage patients, doctors, appointments, billing and hospital resources. It reduces paperwork, improves accuracy, and speeds up healthcare delivery.
 
----
+--
 
 ## 📚 Table of Contents
 
